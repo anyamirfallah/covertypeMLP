@@ -210,7 +210,3 @@ Potential extensions include:
 The notebook sets the random seed to `42` for Python, NumPy, and PyTorch and uses stratified data splitting.
 
 Exact reproducibility is not guaranteed across different hardware, software versions, or nondeterministic GPU operations.
-
-## License
-
-No license has been specified for this project yet. Add a `LICENSE` file if you intend to distribute the code for reuse.
