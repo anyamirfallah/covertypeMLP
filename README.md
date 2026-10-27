@@ -149,8 +149,8 @@ The notebook exports several visualizations as standalone HTML files for conveni
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone <https://github.com/anyamirfallah/covertypeMLP/tree/main>
+cd <covertypeMLP>
 ```
 
 ### 2. Install dependencies
